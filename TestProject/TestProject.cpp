@@ -1,11 +1,8 @@
-﻿// TestProject.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿﻿// TestProject.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <iostream>
 using namespace std;
-int sum(int a, int b) {
-    return a + b
-}
 int main()
 {
     cout << "Hello World!\n";
@@ -17,10 +14,8 @@ int main()
         double trouble;
     ====== =
         int third;
-    <<<<<<< Fedor
-        ====== =
 
-        >>>>>> > 02c8d90188680a1b80ae77bd48cac3f10f71b327
+    >>>>>> > 02c8d90188680a1b80ae77bd48cac3f10f71b327
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
