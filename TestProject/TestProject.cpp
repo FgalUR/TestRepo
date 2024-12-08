@@ -3,9 +3,18 @@
 
 #include <iostream>
 using namespace std;
+
+
+int diff(int a,b) 
+{
+    return a - b;
+}
+
+
 int sum(int a, int b) {
     return a + b;
 }
+
 int main()
 {
     cout << "Hello World!\n";
@@ -13,12 +22,7 @@ int main()
     cout << "HSE FCS AMI d";
     int first;
     int second;
-<<<<<<< HEAD
-    double trouble;
-=======
     int third;
-
->>>>>>> 02c8d90188680a1b80ae77bd48cac3f10f71b327
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
