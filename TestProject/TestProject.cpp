@@ -10,6 +10,7 @@ int main()
     cout << "HSE FCS AMI d";
     int first;
     int second;
+    int third;
 
 }
 
