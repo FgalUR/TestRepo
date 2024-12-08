@@ -8,6 +8,8 @@ int main()
     cout << "Hello World!\n";
     cout << "Hello Git and Pornhub";
     cout << "HSE FCS AMI d";
+    int first;
+    int second;
 
 }
 
