@@ -10,7 +10,7 @@ int main()
     cout << "HSE FCS AMI d";
     int first;
     int second;
-
+    double trouble;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
