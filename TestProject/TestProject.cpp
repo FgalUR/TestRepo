@@ -7,7 +7,7 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Hello Git and Pornhub";
-    cout << "HSE FCS AMI";
+    cout << "HSE FCS AMI d";
 
 }
 
